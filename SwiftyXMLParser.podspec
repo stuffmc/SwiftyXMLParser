@@ -15,6 +15,7 @@ Pod::Spec.new do |s|
   s.author       = { "kahayash" => "kahayash@yahoo-corp.jp" }
 
   s.ios.deployment_target = "8.0"
+  s.watchos.deployment_target = "4.3"
   s.tvos.deployment_target = "9.0"
   s.osx.deployment_target = "10.10"
 
